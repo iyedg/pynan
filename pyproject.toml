@@ -5,7 +5,7 @@ description = ""
 authors = ["Iyed Ghedamsi <iyed.ghdemsi@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.6"
 pandas = "^0.25.3"
 jupyterlab = "^1.2.4"
 plotly = "4.4.1"
